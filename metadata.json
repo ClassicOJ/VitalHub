@@ -1,0 +1,6 @@
+{
+  "name": "VitalHub",
+  "description": "Unified personal health, fitness, nutrition, and lab intelligence platform with privacy-first care-team sharing and AI evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
